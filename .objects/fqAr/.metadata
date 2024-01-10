@@ -1,0 +1,11 @@
+﻿{
+  "Id": "fqArKG7HLEyAa6QG6XlsWg",
+  "Reference": "VA3U8Tcdl0SN04InoFmcAw/fqArKG7HLEyAa6QG6XlsWg",
+  "Name": "WP_Bot",
+  "Type": "App",
+  "Created": "2023-09-17T07:07:53.5801003Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-17T07:07:53.5801003Z"
+}
